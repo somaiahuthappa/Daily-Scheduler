@@ -9,7 +9,7 @@
 
 ## Links to the site
 - 
-- 
+- https://somaiahuthappa.github.io/Daily-Scheduler/
 
 ## Screenshots
 ![This is a screenshot](/assets/images/screenshot1.png)
