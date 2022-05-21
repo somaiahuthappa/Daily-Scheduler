@@ -8,7 +8,6 @@
 - Gray for past time, red for current time, green for future time.
 
 ## Links to the site
-- 
 - https://somaiahuthappa.github.io/Daily-Scheduler/
 
 ## Screenshots
